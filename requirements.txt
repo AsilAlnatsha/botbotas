@@ -1,0 +1,13 @@
+uvicorn==0.27.1
+python-telegram-bot==21.6
+
+
+https://dashboard.render.com/
+
+uvicorn main:app --host 0.0.0.0 --port $PORT
+
+
+8534882231:AAH8ZU6IgBErjIpbLTVHvlZ2Tj5cVjv_aqY
+
+https://telegram-test-101.onrender.com
+https://api.telegram.org/bot8534882231:AAH8ZU6IgBErjIpbLTVHvlZ2Tj5cVjv_aqY/setWebhook?url=https://telegram-test-101.onrender.com/webhook
